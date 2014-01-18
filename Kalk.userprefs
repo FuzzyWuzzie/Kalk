@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kalk/PipelineTests.cs">
+    <Files>
+      <File FileName="Kalk/InfixToPostfix.cs" Line="1" Column="1" />
+      <File FileName="Kalk/TokenizeExpressionTests.cs" Line="1" Column="1" />
+      <File FileName="Kalk/Variables.cs" Line="1" Column="1" />
+      <File FileName="Kalk/PipelineTests.cs" Line="20" Column="25" />
+      <File FileName="Kalk/EvaluatePostfix.cs" Line="1" Column="1" />
+      <File FileName="Kalk/EvaluatePostfixTests.cs" Line="1" Column="1" />
+      <File FileName="Kalk/Functions.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="Kalk" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True">
+          <Node name="Kalk" expanded="True">
+            <Node name="Kalk" expanded="True">
+              <Node name="EvaluatePostfixTests" expanded="True" />
+              <Node name="PipelineTests" expanded="True">
+                <Node name="HandlesNegativeScientificNotation" selected="True" />
+              </Node>
+              <Node name="TokenizeExpressionTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

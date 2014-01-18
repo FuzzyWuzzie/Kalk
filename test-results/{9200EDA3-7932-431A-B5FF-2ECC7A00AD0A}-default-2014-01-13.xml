@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2014-01-13T18:46:09</TestDate>
+      <Status />
+      <Passed>0</Passed>
+      <Errors>0</Errors>
+      <Failures>1</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T18:47:17</TestDate>
+      <Status />
+      <Passed>1</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T18:48:58</TestDate>
+      <Status />
+      <Passed>2</Passed>
+      <Errors>0</Errors>
+      <Failures>1</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:11:05</TestDate>
+      <Status />
+      <Passed>3</Passed>
+      <Errors>2</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:12:15</TestDate>
+      <Status />
+      <Passed>4</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:12:19</TestDate>
+      <Status />
+      <Passed>4</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:13:52</TestDate>
+      <Status />
+      <Passed>4</Passed>
+      <Errors>0</Errors>
+      <Failures>1</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:14:42</TestDate>
+      <Status />
+      <Passed>4</Passed>
+      <Errors>0</Errors>
+      <Failures>1</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:19:42</TestDate>
+      <Status />
+      <Passed>5</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:20:35</TestDate>
+      <Status />
+      <Passed>5</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2014-01-13T19:21:04</TestDate>
+      <Status />
+      <Passed>5</Passed>
+      <Errors>0</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+    </UnitTestResult>
+  </Results>
+</TestRecord>
